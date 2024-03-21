@@ -200,7 +200,17 @@
 </div>
 <div class="container">
   <h1>Firewall and Proxy Ports Exclusions</h1>
-  <p>If your Control Room is Cloud or Cloud-Enabled, you only need to exclude ports 80, 443 and 22113. However, if your Control Room is On-Prem, please exclude all these ports: 22, 80, 88, 389, 443, 445, 587, 636, 1234, 1433, 3268, 3269, 3389, 4567-4571, 5672, 5678-5708, 5800-5900, 8080, 22113, 47100-47200, 47500-47600.</p>
+  <p>If your Control Room is Cloud or Cloud-Enabled, you only need to exclude ports 80, 443 and 22113.<br/> However, if your Control Room is On-Prem, please exclude all these ports: 22, 80, 88, 389, 443, 445, 587, 636, 1234, 1433, 3268, 3269, 3389, 4567-4571, 5672, 5678-5708, 5800-5900, 8080, 22113, 47100-47200, 47500-47600.</p>
+</div>
+<div class="container">
+  <h5>After Completion whitelisting Do Download</h5>
+  
+</div>
+
+<div class="container">
+  <h1>Download On-Premises Setup Automation Anywhere A360</h1>
+  <p>You can download the On-Premises setup for Automation Anywhere A360 from the following link:</p>
+  <p><a href="https://apeople.automationanywhere.com/s/downloads?language=en_US&_ga=2.255768972.561251991.1710912301-1033647924.1706863450&_gl=1*1jh1eyi*_ga*MTAzMzY0NzkyNC4xNzA2ODYzNDUw*_ga_DG1BTLENXK*MTcxMDkxMjMwMy4xOS4wLjE3MTA5MTIzMDMuNjAuMC4w" target="_blank">Download On-Premises Setup</a></p>
 </div>
 </body>
 </html>
